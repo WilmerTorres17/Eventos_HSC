@@ -1,2 +1,2 @@
-# Eventos_HSC
-Wilmer Torres
+# ProyectoHSC22021
+Proyecto didáctico HSC
